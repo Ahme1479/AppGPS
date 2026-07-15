@@ -1,0 +1,6 @@
+{
+  "name": "GPS Spoofer",
+  "description": "تطبيق تغيير الموقع الجغرافي إلى موقع وهمي في أي دولة بضغطة زر لفتح المواقع المحجوبة والخدمات المقيدة جغرافيًا مع واجهة مستخدم حديثة وبسيطة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
